@@ -21,6 +21,3 @@ This project calculates your exact age based on your date of birth.
 - CSS – Styling and layout
 - JavaScript – Logic for age calculation
 
----
-
-## 📂 Project Structure
